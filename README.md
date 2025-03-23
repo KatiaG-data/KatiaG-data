@@ -2,7 +2,7 @@
 
 🎓 🎓 Ex-communicante devenue exploratrice de données, je débute bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**
 
-📊 Je transforme les données en insights concrets grâce à **Excel** et **Power BI** et **SQL**
+📊 Je transforme les données en insights concrets grâce à **Excel**, **Power BI** et **SQL**
 
 ---
 
