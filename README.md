@@ -17,7 +17,7 @@
 
 | Projet | Outils | Description |
 |--------|--------|-------------|
-| [Analyse des ventes](https://github.com/KatiaG-data/vente-powerbi) | Excel / Power BI | Dashboard interactif pour visualiser les performances commerciales |
+| [CapitalFlow - Analyse de l'attrition des-clients 2023(https://github.com/KatiaG-data/vente-powerbi) | Excel / Power BI | Dashboard interactif pour visualiser les performances commerciales |
 | [Étude de satisfaction client](https://github.com/KatiaG-data/satisfaction-python) | Python / Matplotlib | Analyse des retours clients avec visualisation des tendances |
 | [Dashboard RH](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
 
