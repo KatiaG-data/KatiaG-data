@@ -21,8 +21,6 @@
 | [Étude de satisfaction client](https://github.com/KatiaG-data/satisfaction-python) | Python / Matplotlib | Analyse des retours clients avec visualisation des tendances |
 | [Dashboard RH](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
 
-➡️ D'autres projets arrivent très bientôt !
-
 ---
 
 
