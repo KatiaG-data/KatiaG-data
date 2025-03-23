@@ -32,4 +32,4 @@
 
 ---
 
-✨ Merci d’avoir visité mon profil GitHub !  
+Merci d’avoir visité mon profil GitHub !  
