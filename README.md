@@ -1,6 +1,6 @@
 # 👋 Hello, moi c’est Katia !
 
-🎓 De communicante à data exploratrice : je navigue désormais entre graphiques et jeux de données pour révéler ce que les chiffres ont à dire.
+🎓 🎓 Ex-communicante devenue exploratrice de données, je débute bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**
 
 📊 Je transforme les données en insights concrets grâce à **Excel** et **Power BI** et **SQL**
 
