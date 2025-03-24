@@ -16,9 +16,9 @@
 
 | Projet | Outils | Description |
 |--------|--------|-------------|
-| [CapitalFlow - Analyse de l'attrition des-clients 2023(https://github.com/KatiaG-data/vente-powerbi) | Excel / Power BI | Dashboard interactif pour visualiser les performances commerciales |
-| [Étude de satisfaction client](https://github.com/KatiaG-data/satisfaction-python) | Python / Matplotlib | Analyse des retours clients avec visualisation des tendances |
-| [Dashboard RH](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
+| [Analyse de l'attrition des-clients 2023 - CapitalFlow](https://github.com/KatiaG-data/CapitalFlow-Analyse-de-l-attrition-des-clients--2023) | Excel / Power Query / Power BI | Dashboard interactif pour visualiser les performances commerciales |
+| [Analyse des Substances Chimiques dans les Cosmétiques -Santé Publique de Californie](https://github.com/KatiaG-data/Sante-Publique-de-Californie--Analyse-des-Substances-Chimiques-dans-les-Cosmetiques-) | Excel / Power Query / Power BI| Analyse des retours clients avec visualisation des tendances |
+| [Étude des Locations Airbnb à New York City - Airbnb](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
 
 Ces projets sont fictifs ou issus de jeux de données publics, créés dans un objectif d'apprentissage.
 
