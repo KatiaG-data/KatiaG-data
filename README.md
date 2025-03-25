@@ -28,8 +28,7 @@ Ces projets sont fictifs ou issus de jeux de données publics.
 ## 🤝 Me contacter
 
 📬 [gomakatia@gmail.com](mailto:gomakatia@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/katia-profil/)  
-📁 [Voir mes projets GitHub](https://github.com/KatiaG-data?tab=repositories)
+💼 [LinkedIn](https://www.linkedin.com/in/katia-goma/)  
 
 ---
 
