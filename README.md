@@ -13,13 +13,13 @@
 
 ## 📁 Mes projets
 
-| Projet | Outils | Description |
-|--------|--------|-------------|
-| [Analyse de l'attrition des-clients 2023 - CapitalFlow](https://github.com/KatiaG-data/CapitalFlow-Analyse-de-l-attrition-des-clients--2023) | Excel / Power Query / Power BI | Dashboard interactif pour visualiser les performances commerciales |
-| [Analyse des Substances Chimiques dans les Cosmétiques -Santé Publique de Californie](https://github.com/KatiaG-data/Sante-Publique-de-Californie--Analyse-des-Substances-Chimiques-dans-les-Cosmetiques-) | Excel / Power Query / Power BI| Analyse des retours clients avec visualisation des tendances |
-| [Étude des Locations Airbnb à New York City - Airbnb](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
+| Projet | Outils | 
+|--------|--------|
+| [Analyse de l'attrition des clients 2023 - CapitalFlow](https://github.com/KatiaG-data/CapitalFlow-Analyse-de-l-attrition-des-clients--2023) | Excel / Power Query / Power BI | 
+| [Analyse des Substances Chimiques dans les Cosmétiques - Santé Publique de Californie](https://github.com/KatiaG-data/Sante-Publique-de-Californie--Analyse-des-Substances-Chimiques-dans-les-Cosmetiques-) | Excel / Power Query / Power BI|
+| [Étude des Locations Airbnb à New York City - 2019](https://github.com/KatiaG-data/dashboard-rh) | Excel / Power Query / Power BI |
 
-Je précise que ces projets sont fictifs ou issus de jeux de données publics.
+Ces projets sont fictifs ou issus de jeux de données publics.
 
 
 ---
