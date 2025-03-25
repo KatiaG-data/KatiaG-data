@@ -19,8 +19,7 @@
 | [Analyse des Substances Chimiques dans les Cosmétiques -Santé Publique de Californie](https://github.com/KatiaG-data/Sante-Publique-de-Californie--Analyse-des-Substances-Chimiques-dans-les-Cosmetiques-) | Excel / Power Query / Power BI| Analyse des retours clients avec visualisation des tendances |
 | [Étude des Locations Airbnb à New York City - Airbnb](https://github.com/KatiaG-data/dashboard-rh) | Power BI | Suivi des indicateurs RH (absentéisme, recrutement, etc.) |
 
-Ces projets sont fictifs ou issus de jeux de données publics, créés dans un objectif d'apprentissage.
-
+Je précise que ces projets sont fictifs ou issus de jeux de données publics.
 
 
 ---
