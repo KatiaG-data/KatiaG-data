@@ -17,7 +17,7 @@
 |--------|--------|
 | [Analyse de l'attrition des clients 2023 - CapitalFlow](https://github.com/KatiaG-data/CapitalFlow-Analyse-de-l-attrition-des-clients--2023) | Excel / Power Query / Power BI | 
 | [Analyse des Substances Chimiques dans les Cosmétiques - Santé Publique de Californie](https://github.com/KatiaG-data/Sante-Publique-de-Californie--Analyse-des-Substances-Chimiques-dans-les-Cosmetiques-) | Excel / Power Query / Power BI|
-| [Étude des Locations Airbnb à New York City - 2019](https://github.com/KatiaG-data/dashboard-rh) | Excel / Power Query / Power BI |
+| [Étude des Locations Airbnb à New York City - 2019](https://github.com/KatiaG-data/Airbnb-Project) | Excel / Power Query / Power BI |
 
 Ces projets sont fictifs ou issus de jeux de données publics.
 
