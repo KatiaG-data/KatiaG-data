@@ -1,14 +1,13 @@
 # Hello, moi c’est Katia !
 
 🎓 Je débute bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**.  
-📊 Je transforme les données en insights concrets grâce à **Excel**, **Power BI** et **SQL**.
 
 ---
 
 ## 🚀 Ce que je fais actuellement
 
 🔎 Je me forme intensivement à la data analyse (SQL, Excel, visualisation de données, Power BI...).    
-🛠 Je réalise des projets fictifs que tu peux retrouver dans ce portfolio.
+🛠 Je réalise des projets fictifs que vous pouvez retrouver dans ce portfolio.
 
 ---
 
