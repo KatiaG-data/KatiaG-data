@@ -6,7 +6,9 @@
 
 ## 🚀 Ce que je fais actuellement
 
-🔎 Je me forme intensivement à la data analyse (SQL, Excel, visualisation de données, Power BI...).    
+🔎 Je me forme intensivement à la data analyse (SQL, Excel, visualisation de données, Power BI...).
+- En cours d'aquisition : Certificat Professionnel Analyse de données Google 
+- Formation suivie et finalisée : "Requêtez une base de données avec SQL" – OpenClassrooms
 🛠 Je réalise des projets fictifs que vous pouvez retrouver dans ce portfolio.
 
 ---
