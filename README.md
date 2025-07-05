@@ -1,14 +1,14 @@
 # Hello, moi c’est Katia !
 
-🎓 Ex-communicante devenue exploratrice de données, je débute bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**.  
+🎓 Communicante et exploratrice de données, je débuterai bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**.  
 
 ---
 
 ## 🚀 Ce que je fais actuellement
 
-🔎 Je me forme intensivement à la data analyse (SQL, Excel, visualisation de données, Power BI...).
+🔎 Je travaille sur la data analyse (SQL, Excel, visualisation de données, Power BI...).
 - En cours d'aquisition : Certificat Professionnel Analyse de données Google 
-- Formation suivie et finalisée : Requêtez une base de données avec SQL – OpenClassrooms
+- Formation : Requêtez une base de données avec SQL – OpenClassrooms
 
 🛠 Je réalise des projets fictifs que vous pouvez retrouver dans ce portfolio.
 
