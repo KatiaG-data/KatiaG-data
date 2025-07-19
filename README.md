@@ -6,7 +6,7 @@
 
 ## 🚀 Ce que je fais actuellement
 
-🔎 Je travaille sur la data analyse (SQL, Excel, visualisation de données, Power BI...).
+🔎 Je travaille sur la data analyse (Python, SQL, Excel, Power BI, Tableau...).
 - En cours d'aquisition : Certificat Professionnel Analyse de données Google 
 - Formation : Requêtez une base de données avec SQL – OpenClassrooms
 
