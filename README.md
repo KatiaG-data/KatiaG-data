@@ -1,6 +1,6 @@
 # Hello, moi c’est Katia !
 
-🎓 Communicante et exploratrice de données, je débuterai bientôt un **mastère spécialisé Manager Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**.  
+🎓 Je débuterai bientôt un **mastère spécialisé Marketing Data et Commerce Electronique à SKEMA Businnes Schoo**l, pour mettre mes compétences au service de **décisions business plus éclairées**.  
 
 ---
 
